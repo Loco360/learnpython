@@ -1,0 +1,8 @@
+#Stripping Whitespace
+favorite_language = "python "
+favorite_language = favorite_language.rstrip()
+print(favorite_language)
+
+#rstrip strip whitespace on the right
+#lstrip strip whitespace on the left
+#strip strip whitespace on both sides
